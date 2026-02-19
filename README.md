@@ -46,13 +46,6 @@ flutter run
 
 ```
 
-## Author
-
-👤 **alianilkocak**
-
-* Twitter: [@alianilkocak](https://twitter.com/alianilkocak)
-* Github: [@AliAnilKocak](https://github.com/AliAnilKocak)
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome !<br />Feel free to check [issues page](https://www.coolflutter.com/).
