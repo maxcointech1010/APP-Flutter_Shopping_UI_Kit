@@ -54,9 +54,8 @@ Contributions, issues and feature requests are welcome !<br />Feel free to check
 
 Give a ⭐️ if this project helped you !
 
-Note: Auth Screens Inspired of => https://dribbble.com/shots/6487505-Food-Order-App 
 
 ## 📝 License
 
-Copyright © 2019 [alianilkocak](https://github.com/AliAnilKocak).<br />
+Copyright © 2019 [alianilkocak](https://github.com/maxcointech1010).<br />
 This project is [MIT](https://www.coolflutter.com/) licensed.
